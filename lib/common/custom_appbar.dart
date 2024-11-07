@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
 import 'package:foodly/common/app_style.dart';
 import 'package:foodly/common/reusable_text.dart';
+
 import 'package:foodly/constants/constants.dart';
 
 class CustomAppbar extends StatelessWidget {
